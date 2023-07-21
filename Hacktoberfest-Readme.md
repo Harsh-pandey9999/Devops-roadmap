@@ -32,7 +32,7 @@ It is open to everyone in the community and anyone whether you're a seasoned con
 - PRs for Hacktober will only be considered if an issue was raised beforehand.
 - Maintain proper code of conduct.
 - Be polite.
-- Publishing others' private information, such as a physical or electronic address, without explicit permission will no be tolerated.
+- Publishing others' private information, such as a physical or electronic address, without explicit permission will not be tolerated.
 - Showing empathy towards other community members.
 - Being respectful of differing viewpoints and experiences.
 
